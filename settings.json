@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
+  "name": "gopgopsinz",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "gopgopsinz",
+    "password": "5555555",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "5555555"
     },
     "anti-afk": {
       "enabled": true,
