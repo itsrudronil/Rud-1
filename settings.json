@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Inf26.aternos.me",
+    "ip": "Inf26.aternos.me:19238",
     "port": 19238,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 200,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
       "enabled": false,
