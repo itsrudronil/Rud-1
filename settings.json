@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Inf26.aternos.me:19238",
-    "port": 19238,
+    "ip": "sobarsmp.aternos.me:64222",
+    "port": 64222,
     "version": "1.21.11",
     "try-creative": false
   },
